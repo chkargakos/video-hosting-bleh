@@ -8,4 +8,4 @@ bot.on("ready", async() => {
     channel.send("<@&980519111966752808>" + "\n new audio uploaded: http://92.42.46.150:8080/audio").then(() => { process.kill(0); });
 });
 
-bot.login("NzY2Nzg2NzQwOTU0MjAyMTUz.X4obzQ.5NIbSxAfibfxSMzKICZDzr6N5zg");
+bot.login("oops");
